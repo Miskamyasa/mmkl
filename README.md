@@ -10,12 +10,12 @@ English layout is based on the [SOUL](http://kennetchaz.github.io/symmetric-typi
 
 [RU](./keyboard-layout-ru.json)
 
-This is mostly a base layout for Russian language, but with small tweaks for comma, period and question mark.
+Base Russian keyboard layout, but with small tweaks for comma, period and question mark.
 
 <img src="./keyboard-layout-ru.png" width="400">
 
 [HE](./keyboard-layout-he.json)
 
-Similar to the Russian layout, it is small tweaks for Hebrew language. 
+Similar to the Russian layout, just small tweaks for Hebrew language. 
 
 <img src="./keyboard-layout-he.png" width="400">
