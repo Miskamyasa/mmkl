@@ -2,19 +2,19 @@ This is my personal keyboard layouts.
 
 https://keyboard-layout-editor.com/#/
 
-[EN](./keyboard-layout-en.json)
+[EN](./keyboard-layout-en.kle)
 
 English layout is based on the [SOUL](http://kennetchaz.github.io/symmetric-typing/soul.html) layout
 
 <img src="./keyboard-layout-en.png" width="400">
 
-[RU](./keyboard-layout-ru.json)
+[RU](./keyboard-layout-ru.kle)
 
 Base Russian keyboard layout, but with small tweaks for comma, period and question mark.
 
 <img src="./keyboard-layout-ru.png" width="400">
 
-[HE](./keyboard-layout-he.json)
+[HE](./keyboard-layout-he.kle)
 
 Similar to the Russian layout, just small tweaks for Hebrew language. 
 
