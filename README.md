@@ -4,7 +4,8 @@ https://keyboard-layout-editor.com/#/
 
 [EN](./keyboard-layout-en.kle)
 
-English layout is based on the [SOUL](http://kennetchaz.github.io/symmetric-typing/soul.html) layout
+English layout is based on regular QWERTY layout, but with small tweaks for comma, period and question mark.
+Letters E and J are swapped, so that E is on the home row and J is on the second row.
 
 <img src="./keyboard-layout-en.png" width="400">
 

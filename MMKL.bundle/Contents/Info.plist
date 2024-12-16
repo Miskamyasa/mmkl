@@ -8,14 +8,14 @@
 	<string>MMKL</string>
 	<key>CFBundleVersion</key>
 	<string>1.0.0</string>
-	<key>KLInfo_MMKL - ABC (SOUL)</key>
+	<key>KLInfo_MMKL - ABC</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.mmkl.mmkl-abc(soul)</string>
+		<string>org.sil.ukelele.keyboardlayout.mmkl.mmkl-abc</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
