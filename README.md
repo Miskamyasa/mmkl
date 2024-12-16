@@ -4,8 +4,9 @@ https://keyboard-layout-editor.com/#/
 
 [EN](./keyboard-layout-en.kle)
 
-English layout is based on regular QWERTY layout, but with small tweaks for comma, period and question mark.
+English layout is based on regular QWERTY layout, but with small tweaks.
 Letters E and J are swapped, so that E is on the home row and J is on the second row.
+Comma, period and question marks have been moved to different places.
 
 <img src="./keyboard-layout-en.png" width="400">
 
