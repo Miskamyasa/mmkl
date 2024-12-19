@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Idea of MiskaMyasa - https://github.com/Miskamyasa&#x000A;Based on SOUL - http://kennetchaz.github.io/symmetric-typing/soul.html&#x000A;Created in Ukelele 3.5.13 (396)-->
-<!--Last edited by Ukelele version 396 on 2024-12-01 at 20:34 (GMT+2)-->
+<!--Last edited by Ukelele version 396 on 2024-12-19 at 20:34 (GMT+2)-->
 <keyboard group="126" id="-12292" name="MMKL - Russian " maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="a8" modifiers="30"/>
@@ -179,7 +179,7 @@
             <key code="27" output="_"/>
             <key code="28" output="*"/>
             <key code="29" output=")"/>
-            <key code="30" output="Ъ"/>
+            <key code="30" output="|"/>
             <key code="31" output="Щ"/>
             <key code="32" output="Г"/>
             <key code="33" output="Х"/>
@@ -195,7 +195,7 @@
             <key code="43" output="Б"/>
             <key code="44" output="?"/>
             <key code="45" output="Т"/>
-            <key code="46" output="Ь"/>
+            <key code="46" output="ъ"/>
             <key code="47" output="Ю"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
@@ -512,7 +512,7 @@
             <key code="27" output="-"/>
             <key code="28" output="8"/>
             <key code="29" output="0"/>
-            <key code="30" output="ъ"/>
+            <key code="30" output="\"/>
             <key code="31" output="щ"/>
             <key code="32" output="г"/>
             <key code="33" output="х"/>
