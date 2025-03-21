@@ -1,4 +1,4 @@
-This is my personal keyboard layouts.
+## This is my personal keyboard layouts.
 
 https://keyboard-layout-editor.com/#/
 
@@ -21,3 +21,25 @@ Base Russian keyboard layout, but with small tweaks for comma, period and questi
 Similar to the Russian layout, just small tweaks for Hebrew language. 
 
 <img src="./keyboard-layout-he.png" width="100%">
+
+## Installation of the keyboard layout bundle file
+
+Copy MMKL.bundle file to either:
+
+- /Library/Keyboard Layouts/ (all users)
+- ~/Library/Keyboard Layouts/ (current user only)
+
+Log out and log back in, or restart Mac
+
+Enable layouts:
+
+Open System Settings > Keyboard > Input Sources
+Click the + button
+Find layouts under "Custom" section
+Select and add each layout
+
+### Troubleshooting
+
+If layouts don't appear, check permissions: chmod -R 644 ~/Library/Keyboard\ Layouts/MMKL.bundle
+Clear keyboard cache: sudo touch /System/Library/Extensions
+Restart may be required
