@@ -23,7 +23,7 @@ Similar to the Russian layout, just small tweaks for Hebrew language.
 
 ## Installation of the keyboard layout bundle file
 
-Copy MMKL.bundle file to either:
+Copy MMKL-HE-RU.bundle and/or MMKL-SOUL files to either:
 
 - /Library/Keyboard Layouts/ (all users)
 - ~/Library/Keyboard Layouts/ (current user only)
